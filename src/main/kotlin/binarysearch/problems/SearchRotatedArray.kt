@@ -1,4 +1,4 @@
-package com.jeishiva.binary_search.problems
+package binarysearch.problems
 
 import com.jeishiva.binary_search.binarySearch
 

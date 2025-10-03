@@ -1,4 +1,4 @@
-package com.jeishiva.binary_search.problems
+package binarysearch.problems
 
 fun findPivot(nums: IntArray): Int {
     var left = 0

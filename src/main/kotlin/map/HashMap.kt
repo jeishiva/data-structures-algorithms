@@ -1,4 +1,4 @@
-package com.jeishiva.map
+package map
 
 interface IMap<K, V> {
     fun put(key: K, value: V)

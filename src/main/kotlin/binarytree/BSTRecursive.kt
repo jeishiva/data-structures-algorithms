@@ -1,4 +1,4 @@
-package com.jeishiva.binarytree
+package binarytree
 
 /**
  *  binary search tree insertion, deletion, traversals

@@ -1,4 +1,4 @@
-package com.jeishiva.binarytree
+package binarytree
 
 class BTNode<T : Comparable<T>>(
     var value: T,

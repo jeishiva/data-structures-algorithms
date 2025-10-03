@@ -10,7 +10,12 @@ repositories {
 }
 
 dependencies {
+    // Kotlin test (common assertions)
     testImplementation(kotlin("test"))
+
+    // JUnit 5 (Jupiter) for @Test, @BeforeEach, etc.
+    testImplementation("org.junit.jupiter:junit-jupiter-api:5.11.0")
+    testRuntimeOnly("org.junit.jupiter:junit-jupiter-engine:5.11.0")
 }
 
 tasks.test {

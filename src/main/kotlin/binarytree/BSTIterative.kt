@@ -1,4 +1,4 @@
-package com.jeishiva.binarytree
+package binarytree
 
 class BSTIterative<T : Comparable<T>> {
     private var root: BTNode<T>? = null

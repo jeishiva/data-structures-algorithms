@@ -1,4 +1,4 @@
-package com.jeishiva.binarytree
+package binarytree
 
 sealed class BTTraversalType {
     data object PreOrder : BTTraversalType()

@@ -1,4 +1,4 @@
-package com.jeishiva.linkedlist
+package linkedlist
 
 
 data class SingleLinkedListNode(val value: Int, var next: SingleLinkedListNode? = null)

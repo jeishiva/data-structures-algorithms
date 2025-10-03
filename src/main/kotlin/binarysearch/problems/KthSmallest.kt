@@ -1,4 +1,4 @@
-package com.jeishiva.binary_search.problems
+package binarysearch.problems
 
 
 fun kthSmallest(matrix: Array<IntArray>, k: Int): Int {
